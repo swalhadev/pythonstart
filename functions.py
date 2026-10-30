@@ -12,9 +12,9 @@ print(y)
 #user-defined functions - Created and defined by the user
 
 def  school():
-    print(school)
+    print("Emobilis")
 
-   school() #calling a function
+school() #calling a function
 
 #parameter/variable and arguments /values
 def multiply(x,y, z):
